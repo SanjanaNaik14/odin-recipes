@@ -1,2 +1,3 @@
 # odin-recipes
-This project is for recipes.
+
+This is a test project made with html.
